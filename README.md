@@ -1,12 +1,12 @@
-# React + Vite
+🌦️ Weather Report App
+I built a responsive weather application using React.js and TailwindCSS, powered by an external Weather API. This app allows users to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔍 Search for any city worldwide.
 
-Currently, two official plugins are available:
+🌡️ View real-time temperature updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+☁️ Get the current weather condition & description.
 
-## Expanding the ESLint configuration
+📱 Experience a clean, responsive, and modern UI with TailwindCSS styling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project highlights my skills in API integration, React state management, and responsive UI design.
